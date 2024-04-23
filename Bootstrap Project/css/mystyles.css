@@ -1,0 +1,50 @@
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #222423
+    margin-left:3%;
+  
+}
+
+body{
+    
+    background-image: ".//background.jpg";
+    background-color: gainsboro;
+     
+}
+
+.custom{
+    font-family:Lucida Grande;
+    color:black
+}
+
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #222423;
+    
+  
+}
+
+.indentmedium{
+    margin-left:10%;
+    margin-right:30%
+}
+
+.indent{
+    margin-left:5%;
+    margin-right:30%
+}
+
+.img{
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin:1.5%;
+    height: 300px;
+    border: solid 3px black;
+}
+
+.video{
+    padding: 50px;
+    margin-left: 15%;
+}
